@@ -1,0 +1,190 @@
+E:\Bot\ViewBot\TotalBot\TotalBot\bin\Debug\TotalBot.exe.config
+E:\Bot\ViewBot\TotalBot\TotalBot\bin\Debug\TotalBot.exe
+E:\Bot\ViewBot\TotalBot\TotalBot\bin\Debug\TotalBot.pdb
+E:\Bot\ViewBot\TotalBot\TotalBot\obj\Debug\TotalBot.csprojAssemblyReference.cache
+E:\Bot\ViewBot\TotalBot\TotalBot\obj\Debug\TotalBot.Properties.Resources.resources
+E:\Bot\ViewBot\TotalBot\TotalBot\obj\Debug\TotalBot.Totalbot.resources
+E:\Bot\ViewBot\TotalBot\TotalBot\obj\Debug\TotalBot.csproj.GenerateResource.cache
+E:\Bot\ViewBot\TotalBot\TotalBot\obj\Debug\TotalBot.exe
+E:\Bot\ViewBot\TotalBot\TotalBot\obj\Debug\TotalBot.pdb
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\bin\Debug\TotalBot.exe.config
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\bin\Debug\TotalBot.exe
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\bin\Debug\TotalBot.pdb
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\bin\Debug\EngineIoClientDotNet.dll
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\bin\Debug\Newtonsoft.Json.dll
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\bin\Debug\SocketIoClientDotNet.dll
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\bin\Debug\WebSocket4Net.dll
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\bin\Debug\Newtonsoft.Json.xml
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\obj\Debug\TotalBot.csproj.ResolveComReference.cache
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\obj\Debug\TotalBot.ChattingBox.resources
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\obj\Debug\TotalBot.Properties.Resources.resources
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\obj\Debug\TotalBot.Totalbot.resources
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\obj\Debug\TotalBot.csproj.GenerateResource.cache
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\obj\Debug\TotalBot.csproj.CopyComplete
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\obj\Debug\TotalBot.exe
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\obj\Debug\TotalBot.pdb
+C:\Users\Administrator\Downloads\Total\TotalBot\bin\Debug\TotalBot.exe.config
+C:\Users\Administrator\Downloads\Total\TotalBot\bin\Debug\TotalBot.exe
+C:\Users\Administrator\Downloads\Total\TotalBot\bin\Debug\TotalBot.pdb
+C:\Users\Administrator\Downloads\Total\TotalBot\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\Administrator\Downloads\Total\TotalBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\Total\TotalBot\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\Administrator\Downloads\Total\TotalBot\bin\Debug\WebSocket4Net.dll
+C:\Users\Administrator\Downloads\Total\TotalBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Downloads\Total\TotalBot\obj\Debug\TotalBot.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Total\TotalBot\obj\Debug\TotalBot.csproj.ResolveComReference.cache
+C:\Users\Administrator\Downloads\Total\TotalBot\obj\Debug\TotalBot.ChattingBox.resources
+C:\Users\Administrator\Downloads\Total\TotalBot\obj\Debug\TotalBot.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Total\TotalBot\obj\Debug\TotalBot.Totalbot.resources
+C:\Users\Administrator\Downloads\Total\TotalBot\obj\Debug\TotalBot.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Total\TotalBot\obj\Debug\TotalBot.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Total\TotalBot\obj\Debug\TotalBot.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Total\TotalBot\obj\Debug\TotalBot.exe
+C:\Users\Administrator\Downloads\Total\TotalBot\obj\Debug\TotalBot.pdb
+C:\Total(backup) don't delete\Total\TotalBot\bin\Debug\TotalBot.exe.config
+C:\Total(backup) don't delete\Total\TotalBot\bin\Debug\TotalBot.exe
+C:\Total(backup) don't delete\Total\TotalBot\bin\Debug\TotalBot.pdb
+C:\Total(backup) don't delete\Total\TotalBot\bin\Debug\EngineIoClientDotNet.dll
+C:\Total(backup) don't delete\Total\TotalBot\bin\Debug\Newtonsoft.Json.dll
+C:\Total(backup) don't delete\Total\TotalBot\bin\Debug\SocketIoClientDotNet.dll
+C:\Total(backup) don't delete\Total\TotalBot\bin\Debug\WebSocket4Net.dll
+C:\Total(backup) don't delete\Total\TotalBot\bin\Debug\Newtonsoft.Json.xml
+C:\Total(backup) don't delete\Total\TotalBot\obj\Debug\TotalBot.csprojAssemblyReference.cache
+C:\Total(backup) don't delete\Total\TotalBot\obj\Debug\TotalBot.csproj.ResolveComReference.cache
+C:\Total(backup) don't delete\Total\TotalBot\obj\Debug\TotalBot.ChattingBox.resources
+C:\Total(backup) don't delete\Total\TotalBot\obj\Debug\TotalBot.Properties.Resources.resources
+C:\Total(backup) don't delete\Total\TotalBot\obj\Debug\TotalBot.Totalbot.resources
+C:\Total(backup) don't delete\Total\TotalBot\obj\Debug\TotalBot.csproj.GenerateResource.cache
+C:\Total(backup) don't delete\Total\TotalBot\obj\Debug\TotalBot.csproj.CoreCompileInputs.cache
+C:\Total(backup) don't delete\Total\TotalBot\obj\Debug\TotalBot.csproj.CopyComplete
+C:\Total(backup) don't delete\Total\TotalBot\obj\Debug\TotalBot.exe
+C:\Total(backup) don't delete\Total\TotalBot\obj\Debug\TotalBot.pdb
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\bin\Debug\TotalBot.exe.config
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\bin\Debug\TotalBot.exe
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\bin\Debug\TotalBot.pdb
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\bin\Debug\EngineIoClientDotNet.dll
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\bin\Debug\Newtonsoft.Json.dll
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\bin\Debug\SocketIoClientDotNet.dll
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\bin\Debug\WebSocket4Net.dll
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\bin\Debug\Newtonsoft.Json.xml
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\obj\Debug\TotalBot.csprojAssemblyReference.cache
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\obj\Debug\TotalBot.csproj.ResolveComReference.cache
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\obj\Debug\TotalBot.ChattingBox.resources
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\obj\Debug\TotalBot.Properties.Resources.resources
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\obj\Debug\TotalBot.Totalbot.resources
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\obj\Debug\TotalBot.csproj.GenerateResource.cache
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\obj\Debug\TotalBot.csproj.CopyComplete
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\obj\Debug\TotalBot.exe
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\obj\Debug\TotalBot.pdb
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\bin\Debug\TotalBot.exe.config
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\bin\Debug\TotalBot.exe
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\bin\Debug\TotalBot.pdb
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\bin\Debug\EngineIoClientDotNet.dll
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\bin\Debug\Newtonsoft.Json.dll
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\bin\Debug\SocketIoClientDotNet.dll
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\bin\Debug\WebSocket4Net.dll
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\bin\Debug\Newtonsoft.Json.xml
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\obj\Debug\TotalBot.csprojAssemblyReference.cache
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\obj\Debug\TotalBot.csproj.ResolveComReference.cache
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\obj\Debug\TotalBot.ChattingBox.resources
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\obj\Debug\TotalBot.Properties.Resources.resources
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\obj\Debug\TotalBot.Totalbot.resources
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\obj\Debug\TotalBot.csproj.GenerateResource.cache
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\obj\Debug\TotalBot.csproj.CopyComplete
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\obj\Debug\TotalBot.exe
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\obj\Debug\TotalBot.pdb
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\bin\Debug\TotalBot.exe.config
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\bin\Debug\TotalBot.exe
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\bin\Debug\TotalBot.pdb
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\bin\Debug\EngineIoClientDotNet.dll
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\bin\Debug\Newtonsoft.Json.dll
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\bin\Debug\SocketIoClientDotNet.dll
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\bin\Debug\WebSocket4Net.dll
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\bin\Debug\Newtonsoft.Json.xml
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\obj\Debug\TotalBot.csprojAssemblyReference.cache
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\obj\Debug\TotalBot.csproj.ResolveComReference.cache
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\obj\Debug\TotalBot.ChattingBox.resources
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\obj\Debug\TotalBot.Properties.Resources.resources
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\obj\Debug\TotalBot.Totalbot.resources
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\obj\Debug\TotalBot.csproj.GenerateResource.cache
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\obj\Debug\TotalBot.csproj.CoreCompileInputs.cache
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\obj\Debug\TotalBot.csproj.CopyComplete
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\obj\Debug\TotalBot.exe
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\obj\Debug\TotalBot.pdb
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\bin\Debug\TotalBot.exe.config
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\bin\Debug\TotalBot.exe
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\bin\Debug\TotalBot.pdb
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\bin\Debug\EngineIoClientDotNet.dll
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\bin\Debug\Newtonsoft.Json.dll
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\bin\Debug\SocketIoClientDotNet.dll
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\bin\Debug\WebSocket4Net.dll
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\bin\Debug\Newtonsoft.Json.xml
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\obj\Debug\TotalBot.csprojAssemblyReference.cache
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\obj\Debug\TotalBot.csproj.ResolveComReference.cache
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\obj\Debug\TotalBot.ChattingBox.resources
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\obj\Debug\TotalBot.LoginForm.resources
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\obj\Debug\TotalBot.Properties.Resources.resources
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\obj\Debug\TotalBot.Totalbot.resources
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\obj\Debug\TotalBot.csproj.GenerateResource.cache
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\obj\Debug\TotalBot.csproj.CoreCompileInputs.cache
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\obj\Debug\TotalBot.csproj.CopyComplete
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\obj\Debug\TotalBot.exe
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\obj\Debug\TotalBot.pdb
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\bin\Debug\WebDriver.dll
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\bin\Debug\WebDriver.Support.dll
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\bin\Debug\WebDriver.xml
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\bin\Debug\WebDriver.Support.xml
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\bin\Debug\BasicFormatsForCore.dll
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\bin\Debug\BCMakeCert.dll
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\bin\Debug\CertMaker.dll
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\bin\Debug\FiddlerCore4.dll
+D:\WORK\KCG\C#\2021.03.04\Totalbot\TotalBot\bin\Debug\FiddlerCore4.xml
+C:\Data\Totalbot\TotalBot\bin\Debug\TotalBot.exe.config
+C:\Data\Totalbot\TotalBot\bin\Debug\TotalBot.exe
+C:\Data\Totalbot\TotalBot\bin\Debug\TotalBot.pdb
+C:\Data\Totalbot\TotalBot\bin\Debug\BasicFormatsForCore.dll
+C:\Data\Totalbot\TotalBot\bin\Debug\BCMakeCert.dll
+C:\Data\Totalbot\TotalBot\bin\Debug\CertMaker.dll
+C:\Data\Totalbot\TotalBot\bin\Debug\EngineIoClientDotNet.dll
+C:\Data\Totalbot\TotalBot\bin\Debug\FiddlerCore4.dll
+C:\Data\Totalbot\TotalBot\bin\Debug\Newtonsoft.Json.dll
+C:\Data\Totalbot\TotalBot\bin\Debug\SocketIoClientDotNet.dll
+C:\Data\Totalbot\TotalBot\bin\Debug\WebDriver.dll
+C:\Data\Totalbot\TotalBot\bin\Debug\WebDriver.Support.dll
+C:\Data\Totalbot\TotalBot\bin\Debug\WebSocket4Net.dll
+C:\Data\Totalbot\TotalBot\bin\Debug\FiddlerCore4.xml
+C:\Data\Totalbot\TotalBot\bin\Debug\Newtonsoft.Json.xml
+C:\Data\Totalbot\TotalBot\bin\Debug\WebDriver.xml
+C:\Data\Totalbot\TotalBot\bin\Debug\WebDriver.Support.xml
+C:\Data\Totalbot\TotalBot\obj\Debug\TotalBot.csproj.ResolveComReference.cache
+C:\Data\Totalbot\TotalBot\obj\Debug\TotalBot.ChattingBox.resources
+C:\Data\Totalbot\TotalBot\obj\Debug\TotalBot.LoginForm.resources
+C:\Data\Totalbot\TotalBot\obj\Debug\TotalBot.Properties.Resources.resources
+C:\Data\Totalbot\TotalBot\obj\Debug\TotalBot.Totalbot.resources
+C:\Data\Totalbot\TotalBot\obj\Debug\TotalBot.csproj.GenerateResource.cache
+C:\Data\Totalbot\TotalBot\obj\Debug\TotalBot.csproj.CoreCompileInputs.cache
+C:\Data\Totalbot\TotalBot\obj\Debug\TotalBot.csproj.CopyComplete
+C:\Data\Totalbot\TotalBot\obj\Debug\TotalBot.exe
+C:\Data\Totalbot\TotalBot\obj\Debug\TotalBot.pdb
+C:\Data\Totalbot\TotalBot\obj\Debug\TotalBot.csprojAssemblyReference.cache
+C:\Data\Totalbot\TotalBot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Data\Totalbot\TotalBot\bin\Debug\SocketIOClient.dll
+C:\Data\Totalbot\TotalBot\bin\Debug\SocketIOClient.Newtonsoft.Json.dll
+C:\Data\Totalbot\TotalBot\bin\Debug\System.Buffers.dll
+C:\Data\Totalbot\TotalBot\bin\Debug\System.Memory.dll
+C:\Data\Totalbot\TotalBot\bin\Debug\System.Numerics.Vectors.dll
+C:\Data\Totalbot\TotalBot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Data\Totalbot\TotalBot\bin\Debug\System.Text.Encodings.Web.dll
+C:\Data\Totalbot\TotalBot\bin\Debug\System.Text.Json.dll
+C:\Data\Totalbot\TotalBot\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Data\Totalbot\TotalBot\bin\Debug\System.ValueTuple.dll
+C:\Data\Totalbot\TotalBot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Data\Totalbot\TotalBot\bin\Debug\SocketIOClient.xml
+C:\Data\Totalbot\TotalBot\bin\Debug\System.Buffers.xml
+C:\Data\Totalbot\TotalBot\bin\Debug\System.Memory.xml
+C:\Data\Totalbot\TotalBot\bin\Debug\System.Numerics.Vectors.xml
+C:\Data\Totalbot\TotalBot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Data\Totalbot\TotalBot\bin\Debug\System.Text.Encodings.Web.xml
+C:\Data\Totalbot\TotalBot\bin\Debug\System.Text.Json.xml
+C:\Data\Totalbot\TotalBot\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Data\Totalbot\TotalBot\bin\Debug\System.ValueTuple.xml

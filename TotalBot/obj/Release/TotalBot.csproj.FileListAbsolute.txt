@@ -1,0 +1,148 @@
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\bin\Release\TotalBot.exe.config
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\bin\Release\TotalBot.exe
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\bin\Release\TotalBot.pdb
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\bin\Release\EngineIoClientDotNet.dll
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\bin\Release\Newtonsoft.Json.dll
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\bin\Release\SocketIoClientDotNet.dll
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\bin\Release\WebSocket4Net.dll
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\bin\Release\Newtonsoft.Json.xml
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\obj\Release\TotalBot.csproj.ResolveComReference.cache
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\obj\Release\TotalBot.ChattingBox.resources
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\obj\Release\TotalBot.Properties.Resources.resources
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\obj\Release\TotalBot.Totalbot.resources
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\obj\Release\TotalBot.csproj.GenerateResource.cache
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\obj\Release\TotalBot.csproj.CopyComplete
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\obj\Release\TotalBot.exe
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\obj\Release\TotalBot.pdb
+E:\Bot\ViewBot\TotalBot\통합프로그램\TotalBot\obj\Release\TotalBot.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Total\TotalBot\bin\Release\TotalBot.exe.config
+C:\Users\Administrator\Downloads\Total\TotalBot\bin\Release\TotalBot.exe
+C:\Users\Administrator\Downloads\Total\TotalBot\bin\Release\TotalBot.pdb
+C:\Users\Administrator\Downloads\Total\TotalBot\bin\Release\EngineIoClientDotNet.dll
+C:\Users\Administrator\Downloads\Total\TotalBot\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\Total\TotalBot\bin\Release\SocketIoClientDotNet.dll
+C:\Users\Administrator\Downloads\Total\TotalBot\bin\Release\WebSocket4Net.dll
+C:\Users\Administrator\Downloads\Total\TotalBot\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Downloads\Total\TotalBot\obj\Release\TotalBot.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Total\TotalBot\obj\Release\TotalBot.csproj.ResolveComReference.cache
+C:\Users\Administrator\Downloads\Total\TotalBot\obj\Release\TotalBot.ChattingBox.resources
+C:\Users\Administrator\Downloads\Total\TotalBot\obj\Release\TotalBot.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Total\TotalBot\obj\Release\TotalBot.Totalbot.resources
+C:\Users\Administrator\Downloads\Total\TotalBot\obj\Release\TotalBot.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Total\TotalBot\obj\Release\TotalBot.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Total\TotalBot\obj\Release\TotalBot.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Total\TotalBot\obj\Release\TotalBot.exe
+C:\Users\Administrator\Downloads\Total\TotalBot\obj\Release\TotalBot.pdb
+C:\Total(backup) don't delete\Total\TotalBot\bin\Release\TotalBot.exe.config
+C:\Total(backup) don't delete\Total\TotalBot\bin\Release\TotalBot.exe
+C:\Total(backup) don't delete\Total\TotalBot\bin\Release\TotalBot.pdb
+C:\Total(backup) don't delete\Total\TotalBot\bin\Release\EngineIoClientDotNet.dll
+C:\Total(backup) don't delete\Total\TotalBot\bin\Release\Newtonsoft.Json.dll
+C:\Total(backup) don't delete\Total\TotalBot\bin\Release\SocketIoClientDotNet.dll
+C:\Total(backup) don't delete\Total\TotalBot\bin\Release\WebSocket4Net.dll
+C:\Total(backup) don't delete\Total\TotalBot\bin\Release\Newtonsoft.Json.xml
+C:\Total(backup) don't delete\Total\TotalBot\obj\Release\TotalBot.csproj.ResolveComReference.cache
+C:\Total(backup) don't delete\Total\TotalBot\obj\Release\TotalBot.ChattingBox.resources
+C:\Total(backup) don't delete\Total\TotalBot\obj\Release\TotalBot.Properties.Resources.resources
+C:\Total(backup) don't delete\Total\TotalBot\obj\Release\TotalBot.Totalbot.resources
+C:\Total(backup) don't delete\Total\TotalBot\obj\Release\TotalBot.csproj.GenerateResource.cache
+C:\Total(backup) don't delete\Total\TotalBot\obj\Release\TotalBot.csproj.CoreCompileInputs.cache
+C:\Total(backup) don't delete\Total\TotalBot\obj\Release\TotalBot.csproj.CopyComplete
+C:\Total(backup) don't delete\Total\TotalBot\obj\Release\TotalBot.exe
+C:\Total(backup) don't delete\Total\TotalBot\obj\Release\TotalBot.pdb
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\bin\Release\TotalBot.exe.config
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\bin\Release\TotalBot.exe
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\bin\Release\TotalBot.pdb
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\bin\Release\EngineIoClientDotNet.dll
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\bin\Release\Newtonsoft.Json.dll
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\bin\Release\SocketIoClientDotNet.dll
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\bin\Release\WebSocket4Net.dll
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\bin\Release\Newtonsoft.Json.xml
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\obj\Release\TotalBot.csprojAssemblyReference.cache
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\obj\Release\TotalBot.csproj.ResolveComReference.cache
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\obj\Release\TotalBot.ChattingBox.resources
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\obj\Release\TotalBot.Properties.Resources.resources
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\obj\Release\TotalBot.Totalbot.resources
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\obj\Release\TotalBot.csproj.GenerateResource.cache
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\obj\Release\TotalBot.csproj.CopyComplete
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\obj\Release\TotalBot.exe
+E:\project\complete\c#\ViewBot\TotalBot\Total_2021-1-8\TotalBot\obj\Release\TotalBot.pdb
+E:\project\progress\011.TotalBot\Total_2021-1-8\TotalBot\bin\Release\TotalBot.exe.config
+E:\project\progress\011.TotalBot\Total_2021-1-8\TotalBot\bin\Release\TotalBot.exe
+E:\project\progress\011.TotalBot\Total_2021-1-8\TotalBot\bin\Release\TotalBot.pdb
+E:\project\progress\011.TotalBot\Total_2021-1-8\TotalBot\bin\Release\EngineIoClientDotNet.dll
+E:\project\progress\011.TotalBot\Total_2021-1-8\TotalBot\bin\Release\Newtonsoft.Json.dll
+E:\project\progress\011.TotalBot\Total_2021-1-8\TotalBot\bin\Release\SocketIoClientDotNet.dll
+E:\project\progress\011.TotalBot\Total_2021-1-8\TotalBot\bin\Release\WebSocket4Net.dll
+E:\project\progress\011.TotalBot\Total_2021-1-8\TotalBot\bin\Release\Newtonsoft.Json.xml
+E:\project\progress\011.TotalBot\Total_2021-1-8\TotalBot\obj\Release\TotalBot.csprojAssemblyReference.cache
+E:\project\progress\011.TotalBot\Total_2021-1-8\TotalBot\obj\Release\TotalBot.csproj.ResolveComReference.cache
+E:\project\progress\011.TotalBot\Total_2021-1-8\TotalBot\obj\Release\TotalBot.ChattingBox.resources
+E:\project\progress\011.TotalBot\Total_2021-1-8\TotalBot\obj\Release\TotalBot.Properties.Resources.resources
+E:\project\progress\011.TotalBot\Total_2021-1-8\TotalBot\obj\Release\TotalBot.Totalbot.resources
+E:\project\progress\011.TotalBot\Total_2021-1-8\TotalBot\obj\Release\TotalBot.csproj.GenerateResource.cache
+E:\project\progress\011.TotalBot\Total_2021-1-8\TotalBot\obj\Release\TotalBot.csproj.CopyComplete
+E:\project\progress\011.TotalBot\Total_2021-1-8\TotalBot\obj\Release\TotalBot.exe
+E:\project\progress\011.TotalBot\Total_2021-1-8\TotalBot\obj\Release\TotalBot.pdb
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\bin\Release\TotalBot.exe.config
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\bin\Release\TotalBot.exe
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\bin\Release\TotalBot.pdb
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\bin\Release\EngineIoClientDotNet.dll
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\bin\Release\Newtonsoft.Json.dll
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\bin\Release\SocketIoClientDotNet.dll
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\bin\Release\WebSocket4Net.dll
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\bin\Release\Newtonsoft.Json.xml
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\obj\Release\TotalBot.csproj.ResolveComReference.cache
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\obj\Release\TotalBot.ChattingBox.resources
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\obj\Release\TotalBot.Properties.Resources.resources
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\obj\Release\TotalBot.Totalbot.resources
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\obj\Release\TotalBot.csproj.GenerateResource.cache
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\obj\Release\TotalBot.csproj.CopyComplete
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\obj\Release\TotalBot.exe
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\obj\Release\TotalBot.pdb
+E:\project\progress\011.TotalBot\Totalbot\TotalBot\obj\Release\TotalBot.csprojAssemblyReference.cache
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\bin\Release\TotalBot.exe.config
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\bin\Release\TotalBot.exe
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\bin\Release\TotalBot.pdb
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\bin\Release\EngineIoClientDotNet.dll
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\bin\Release\Newtonsoft.Json.dll
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\bin\Release\SocketIoClientDotNet.dll
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\bin\Release\WebSocket4Net.dll
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\bin\Release\Newtonsoft.Json.xml
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\obj\Release\TotalBot.csprojAssemblyReference.cache
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\obj\Release\TotalBot.csproj.ResolveComReference.cache
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\obj\Release\TotalBot.ChattingBox.resources
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\obj\Release\TotalBot.Properties.Resources.resources
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\obj\Release\TotalBot.Totalbot.resources
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\obj\Release\TotalBot.csproj.GenerateResource.cache
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\obj\Release\TotalBot.csproj.CoreCompileInputs.cache
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\obj\Release\TotalBot.csproj.CopyComplete
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\obj\Release\TotalBot.exe
+D:\WORK\KCG\C#\2021.02.19\Totalbot\TotalBot\obj\Release\TotalBot.pdb
+C:\Data\Totalbot\TotalBot\bin\Release\TotalBot.exe.config
+C:\Data\Totalbot\TotalBot\bin\Release\TotalBot.exe
+C:\Data\Totalbot\TotalBot\bin\Release\TotalBot.pdb
+C:\Data\Totalbot\TotalBot\bin\Release\BasicFormatsForCore.dll
+C:\Data\Totalbot\TotalBot\bin\Release\BCMakeCert.dll
+C:\Data\Totalbot\TotalBot\bin\Release\CertMaker.dll
+C:\Data\Totalbot\TotalBot\bin\Release\EngineIoClientDotNet.dll
+C:\Data\Totalbot\TotalBot\bin\Release\FiddlerCore4.dll
+C:\Data\Totalbot\TotalBot\bin\Release\Newtonsoft.Json.dll
+C:\Data\Totalbot\TotalBot\bin\Release\SocketIoClientDotNet.dll
+C:\Data\Totalbot\TotalBot\bin\Release\WebDriver.dll
+C:\Data\Totalbot\TotalBot\bin\Release\WebDriver.Support.dll
+C:\Data\Totalbot\TotalBot\bin\Release\WebSocket4Net.dll
+C:\Data\Totalbot\TotalBot\bin\Release\FiddlerCore4.xml
+C:\Data\Totalbot\TotalBot\bin\Release\Newtonsoft.Json.xml
+C:\Data\Totalbot\TotalBot\bin\Release\WebDriver.xml
+C:\Data\Totalbot\TotalBot\bin\Release\WebDriver.Support.xml
+C:\Data\Totalbot\TotalBot\obj\Release\TotalBot.csproj.ResolveComReference.cache
+C:\Data\Totalbot\TotalBot\obj\Release\TotalBot.ChattingBox.resources
+C:\Data\Totalbot\TotalBot\obj\Release\TotalBot.LoginForm.resources
+C:\Data\Totalbot\TotalBot\obj\Release\TotalBot.Properties.Resources.resources
+C:\Data\Totalbot\TotalBot\obj\Release\TotalBot.Totalbot.resources
+C:\Data\Totalbot\TotalBot\obj\Release\TotalBot.csproj.GenerateResource.cache
+C:\Data\Totalbot\TotalBot\obj\Release\TotalBot.csproj.CoreCompileInputs.cache
+C:\Data\Totalbot\TotalBot\obj\Release\TotalBot.csproj.CopyComplete
+C:\Data\Totalbot\TotalBot\obj\Release\TotalBot.exe
+C:\Data\Totalbot\TotalBot\obj\Release\TotalBot.pdb
